@@ -1,2 +1,2 @@
 # Android_apps
-It will contain the pieces of code that is further added to main branch.
+It will contain the projects based on Android App Development.
